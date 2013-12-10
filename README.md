@@ -1,4 +1,6 @@
-Machine-Learning---Stanford
-===========================
+Machine Learning- Stanford classes
+==================================
 
-This repository contains all the weekly exercises of Stanford's Machine Learning classes by Professor Andrew Ng
+Weekly exercises of Stanford's Machine Learning classes by Professor Andrew Ng.
+Contains my accepted solutions to all the quizzes and assignments. 
+The problem statement is also included as a pdf inside individual folders.
